@@ -10,11 +10,6 @@ Sentiment analysis is the process of determining the sentiment expressed in a pi
 
 To run this project, you need to have the following dependencies installed:
 
-pandas
-nltk
-vaderSentiment
-scikit-learn
-matplotlib
 You can install these dependencies using the following command:
 
 ```
