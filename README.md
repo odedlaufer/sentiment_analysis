@@ -1,4 +1,4 @@
-**Sentiment Analysis Project**
+# Sentiment Analysis Project
 
 This project is a sentiment analysis implementation using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool. It analyzes the sentiment of textual data, such as tweets, and classifies it as positive, neutral, or negative. The project involves pre-processing the text, performing sentiment analysis, and evaluating the model's performance.
 
@@ -65,7 +65,7 @@ F1 Score: The F1 score is the harmonic mean of precision and recall, providing a
 Accuracy: Accuracy is the overall performance of the model, calculated as the ratio of correctly predicted instances to the total instances in the dataset.
 The evaluation results are displayed in the console.
 
-**Pre-Proccessing code snippet**
+# Pre-Proccessing code snippet
 
 ```
 # Process the dataset
